@@ -1,0 +1,1 @@
+Trained model: results/train/weights/best.pt
